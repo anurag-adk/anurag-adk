@@ -1,7 +1,8 @@
 <img align="center" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width=100%>
 
 <h1 align="center">Hey Stalker, 👀</h1>
-<h3 align="center">I am a designer and a developer who's always exploring new hobbies and new food. My lifestyle is fueled by coffee.☕</h3>
+<h3 align="center">I am a <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=60&color=36BCF7FF&center=false&vCenter=true&width=150&lines=developer+.+.+.;designer+.+.+." style="vertical-align: middle;"> <br>
+  My lifestyle is fueled by coffee.☕</h3>
 
 <img align="right" src="images/neko.png" width="400">
 
@@ -63,7 +64,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="left">📈 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-adk&show_icons=true&locale=en&layout=compact" alt="anurag-adk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag-adk&show_icons=true&locale=en" alt="anurag-adk" /></p>
