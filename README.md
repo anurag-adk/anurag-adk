@@ -1,7 +1,7 @@
 <img align="center" src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width=100%>
 
 <h1 align="center">Hey Stalker, 👀</h1>
-<h3 align="center">I am a <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=50&color=36BCF7FF&center=false&vCenter=true&width=130&height=19&lines=developer+.+.+.;designer+.+.+."> <br> My lifestyle is fueled by coffee.☕</h3>
+<h2 align="center">I am a <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=50&color=36BCF7FF&center=false&vCenter=true&width=130&height=19&lines=developer+.+.+.;designer+.+.+."> <br> My lifestyle is fueled by coffee.☕</h2>
 
 <img align="right" src="images/neko.png" width="400">
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mobile Development and Framer**
 
-- 📝 I sometimes write articles on [https://medium.com/@anurag.adk](Medium)
+- 📝 I sometimes write articles on [Medium](https://medium.com/@anurag.adk)
 
 - 💬 Ask me about **Backend and Designing**
 
