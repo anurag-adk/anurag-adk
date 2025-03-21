@@ -26,7 +26,7 @@
 <a href="https://instagram.com/anurag.adk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag.adk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anurag.adk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag.adk" height="30" width="40" /></a>
 <a href="https://medium.com/@anurag.adk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anurag.adk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/anuragadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anuragadk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@anuragadk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anuragadk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
