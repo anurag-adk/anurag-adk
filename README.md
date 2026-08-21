@@ -58,6 +58,6 @@
 
 <p align="left">
   <img width="450" src="https://github-readme-stats-fast.vercel.app/api/streak?username=anurag-adk&theme=tokyonight" alt="GitHub Streak"/>
-  <img width="325" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anurag-adk&layout=compact&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="325" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anurag-adk&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <img width="450" src="https://github-readme-stats-fast.vercel.app/api/?username=anurag-adk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
