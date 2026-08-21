@@ -3,17 +3,41 @@
 <h1 align="center">Hey Stalker, 👀</h1>
 <h2 align="center">I am a <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=50&color=36BCF7FF&center=false&vCenter=true&width=130&height=19&lines=developer+.+.+.;designer+.+.+."> <br> My lifestyle is fueled by coffee.☕</h2>
 
-<img align="right" src="images/design/anurag-logo.png" width="400">
+<img align="right" src="images/design/anurag-logo.png" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-adk&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-adk" /> </p>
 
-- 🎓 I’m a **Final Year Computer Engineering student** at **IOE Pashchimanchal Campus**
-- 🔭 I’m currently working on **[My Portfolio](https://adhikarianurag.com.np)**
-- 🌱 I’m currently exploring **Mobile Dev and Framer**
+- 🔭 Currently working on **[My Portfolio](https://adhikarianurag.com.np)**
+- 🌱 Currently exploring **Mobile Dev and Framer**
 - 💬 Ask me about **Backend, UI/UX and Hackathons**
 - 📫 How to reach me **iamanuragadhikari@gmail.com**
 - ⚡ Fun fact **My hobby is having hobbies**
 - 💪 My motto is **Giving Back To The Community**
+
+<br>
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/anuragadk/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/anuragadk" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="https://instagram.com/anurag.adk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://facebook.com/anuragadk404" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://medium.com/@anurag.adk" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.youtube.com/@anuragadk" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 <br>
 
@@ -40,34 +64,11 @@
   </a>
 </p>
 
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/anuragadk/" target="_blank">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=linkedin" alt="LinkedIn" width="48" height="48" style="margin-right: 4px;"/>
-  </a>
-  <a href="https://x.com/anuragadk" target="_blank">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=x" alt="X (Twitter)" width="48" height="48" style="margin-right: 4px;"/>
-  </a>
-  <a href="https://instagram.com/anurag.adk/" target="_blank">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=instagram" alt="Instagram" width="48" height="48" style="margin-right: 4px;"/>
-  </a>
-  <a href="https://facebook.com/anuragadk404" target="_blank">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=facebook" alt="Facebook" width="48" height="48" style="margin-right: 4px;"/>
-  </a>
-  <a href="https://medium.com/@anurag.adk" target="_blank">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=medium" alt="Medium" width="48" height="48" style="margin-right: 4px;"/>
-  </a>
-  <a href="https://www.youtube.com/@anuragadk" target="_blank">
-    <img src="https://skill-icons-fast.vercel.app/api/icons?i=youtube" alt="YouTube" width="48" height="48"/>
-  </a>
-</p>
-
----
+<br>
 
 ## 📈 GitHub Stats:
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/?username=anurag-adk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats-fast.vercel.app/api/streak?username=anurag-adk&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/?username=anurag-adk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/streak?username=anurag-adk&theme=tokyonight" alt="GitHub Streak"/>
 </p>
