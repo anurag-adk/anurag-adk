@@ -1,6 +1,6 @@
 <img align="center" src="/images/design/cool-robo.gif" width="100%">
 
-<h1 align="center">Hey Stalker, 👀</h1>
+<h1 align="center">Hey Stalker 👀</h1>
 <h2 align="center">I am a <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&pause=50&color=36BCF7FF&center=false&vCenter=true&width=130&height=19&lines=developer+.+.+.;designer+.+.+."> <br> My lifestyle is fueled by coffee.☕</h2>
 
 <img align="right" src="images/design/anurag-logo.png" width="300">
@@ -69,6 +69,7 @@
 ## 📈 GitHub Stats:
 
 <p align="left">
-  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/?username=anurag-adk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img width="450" src="https://github-readme-stats-fast.vercel.app/api/streak?username=anurag-adk&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="320" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anurag-adk&layout=compact&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="450" src="https://github-readme-stats-fast.vercel.app/api/?username=anurag-adk&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
